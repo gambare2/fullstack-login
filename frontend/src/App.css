@@ -1,0 +1,43 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.font1{
+  font-family: "Agu Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.font2{
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.font3{
+  font-family: "Exile", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.font4{
+  font-family: "Yesteryear", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.font5{
+   font-family: "Henny Penny", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.font6{
+    font-family: "Road Rage", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.font7{
+    font-family: "Kaushan Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}

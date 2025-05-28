@@ -1,0 +1,15 @@
+{
+  "name": "login-app",
+  "private": true,
+ 
+  
+  "scripts": {
+    "frontend": "npm --prefix frontend run dev",
+    "backend": "npm --prefix backend run dev",
+    "dev": "concurrently -n frontend,backend -c magenta,green \"npm run frontend\" \"npm run backend\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.0"
+  }
+}
+
